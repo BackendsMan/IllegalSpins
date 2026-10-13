@@ -2,7 +2,7 @@
 
 Weapon spin wheel for the Illegal Civ tiers (Tier 1, 1.5, 2). Pick a tier, pick how many spins, spin.
 
-Fair draw: shuffled bag, so every gun in a tier comes up equally often (counts differ by at most 1), no back-to-back repeats.
+Fair draw: every spin is an independent, equal-odds pick from the tier, so the same gun can come up more than once.
 
 ```
 npm install
